@@ -118,8 +118,8 @@ Results:
 
 ### Random Forest Regressor
 
-* Train R²: 0.973
-* Test R²: 0.899
+* MAE: 2.018
+* R² Score: 0.899
 
 ### Gradient Boosting Regressor
 
