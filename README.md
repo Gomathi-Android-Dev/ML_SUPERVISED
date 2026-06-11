@@ -142,15 +142,15 @@ Results:
 
 ### Confusion Matrix
 
-![Confusion Matrix](screenshots/graph1.webp)
+![Confusion Matrix](Screenshots/graph1.webp)
 
 ### Precision Recall Curve
 
-![Precision Recall Curve](screenshots/graph2.webp)
+![Precision Recall Curve](Screenshots/graph2.webp)
 
 ### ROC Curve
 
-![ROC Curve](screenshots/graph3.webp)
+![ROC Curve](Screenshots/graph3.webp)
 
 ---
 
